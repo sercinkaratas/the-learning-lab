@@ -17,4 +17,5 @@ Build expertise one hour a day.
 ### Status
 
 Day 001
-Lab Log Started: Day 002
+Lab Log Started: 
+Day 002
